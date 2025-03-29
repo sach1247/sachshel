@@ -1,0 +1,36 @@
+14:23:19.157 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - successfully clicked on the login button of login page
+14:25:21.298 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - successfully selected the dropdown option id Hyundaix
+14:25:21.647 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - successfully got the all links from the webpage 
+14:25:21.720 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - successfully cleared the text which are in text box
+14:25:21.757 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - successfully validated the disabled button
+14:25:21.783 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - successfully has scrolled upto the enabled button
+14:25:21.852 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - successfully selected the second radio button from the webpage
+14:25:22.014 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - successfully handled the alerts using alert class
+14:25:22.172 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - successfully handled the checkboxes
+14:25:22.382 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - successfully handled the prompt alert
+14:25:22.383 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - window has opened
+14:25:22.656 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - successfully counted the elements and printed all 
+14:25:22.689 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - successfully has fetched the pune city name from the webtable
+14:25:22.775 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - successfully entered username in the field
+14:25:22.851 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - successfully entered password in the field
+14:25:22.939 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - successfully clicked on the login button of login page
+14:30:59.730 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - successfully selected the dropdown option id Hyundaix
+14:31:00.056 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - successfully got the all links from the webpage 
+14:31:00.121 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - successfully cleared the text which are in text box
+14:31:00.156 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - successfully validated the disabled button
+14:31:00.177 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - successfully has scrolled upto the enabled button
+14:31:00.258 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - successfully selected the second radio button from the webpage
+14:31:00.374 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - successfully handled the alerts using alert class
+14:31:00.610 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - successfully handled the checkboxes
+14:31:00.790 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - successfully handled the prompt alert
+14:31:00.791 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - window has opened
+14:31:01.023 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - successfully counted the elements and printed all 
+14:31:01.063 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - successfully has fetched the pune city name from the webtable
+14:31:01.176 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - successfully entered username in the field
+14:31:01.249 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - successfully entered password in the field
+14:31:01.326 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - successfully clicked on the login button of login page
+14:32:10.398 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - successfully selected the dropdown option id Hyundaix
+14:32:10.733 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - successfully got the all links from the webpage 
+14:32:10.805 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - successfully cleared the text which are in text box
+14:32:10.835 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - successfully validated the disabled button
+14:32:10.858 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - successfully has scrolled upto the enabled button

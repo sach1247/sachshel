@@ -1,0 +1,33 @@
+09:54:36.037 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully handled the last column and count the addition and the average of that
+10:01:44.288 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully checked that radio button is selcted or not on the webpage
+10:01:44.309 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully got the title of the webpage
+10:01:44.382 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully handled the home button in order to is it enabled or disabled
+10:01:44.475 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully is handled that page is displaying or not
+10:01:44.503 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully has performed all the raddio button operations
+10:01:44.677 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully has selected the second radion button
+10:01:44.837 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully got the size of all the checkBoxes
+10:01:45.094 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully has selected the all the last two checkboxes
+10:01:45.225 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully clicked on the alert
+10:01:45.287 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully has scrolled upto the webtable text
+10:01:45.316 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully got the size of the WebTable
+10:01:46.309 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully got the size of the Webtable
+10:01:46.337 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully got the specific data from the webtable and printed it successfully
+10:02:17.332 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully got the values which is belongs to the specific column value
+10:02:17.363 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully has scrolled uptp the text of mouse Hover
+10:02:19.071 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully has performed the mouse hover action using the actions class on the webpage
+10:02:19.116 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully got the total numbers of the links on the webtable
+10:02:19.578 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully got the text of the links on the webpage
+10:02:19.602 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully got the cookies and its values which are on the webpage
+10:02:19.649 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully has switched into the frame
+10:02:20.232 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully clicked on the courses link on the webtable
+10:02:51.660 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully has checked the broken links on the webpage
+10:02:51.668 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully has verified the broken links on the webpage
+10:02:51.695 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully has scrolled the page till the bottom of it
+10:03:51.788 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully handled the last column and count the addition and the average of that
+14:29:06.041 [main] INFO  com.NewAutomationProject.testCases.TC_002_OrangeHrmAdminDashboard_Page_Test - successfully Entered username in the login
+14:29:06.143 [main] INFO  com.NewAutomationProject.testCases.TC_002_OrangeHrmAdminDashboard_Page_Test - successfully Entered the password in the field
+14:29:07.531 [main] INFO  com.NewAutomationProject.testCases.TC_002_OrangeHrmAdminDashboard_Page_Test - successfully clicked on the login button
+14:29:08.943 [main] INFO  com.NewAutomationProject.testCases.TC_002_OrangeHrmAdminDashboard_Page_Test - successfully clicked on the admin button of the dashboard page
+14:29:09.507 [main] INFO  com.NewAutomationProject.testCases.TC_002_OrangeHrmAdminDashboard_Page_Test - successfully entered the username in the Dashboard page
+14:29:09.588 [main] INFO  com.NewAutomationProject.testCases.TC_002_OrangeHrmAdminDashboard_Page_Test - successfully clicked on the user role field option
+14:29:09.672 [main] INFO  com.NewAutomationProject.testCases.TC_002_OrangeHrmAdminDashboard_Page_Test - successfully selected the ESS option from the user option of the Dashboard

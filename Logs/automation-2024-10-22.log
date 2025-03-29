@@ -1,0 +1,40 @@
+11:50:46.429 [main] INFO  com.NewAutomationProject.testCases.TC_002_Guru99TableDemoTest - got the second row data successfully
+11:51:28.440 [main] INFO  com.NewAutomationProject.testCases.TC_002_Guru99TableDemoTest - successfully entered email address
+11:51:30.556 [main] INFO  com.NewAutomationProject.testCases.TC_002_Guru99TableDemoTest - clicked on submit button and navigate to the Dashboard page
+11:51:30.608 [main] INFO  com.NewAutomationProject.testCases.TC_002_Guru99TableDemoTest - assertion condition is true
+11:51:30.698 [main] INFO  com.NewAutomationProject.testCases.TC_002_Guru99TableDemoTest - clicked on the selenium DropDown
+11:51:31.792 [main] INFO  com.NewAutomationProject.testCases.TC_002_Guru99TableDemoTest - successfully clicked on the Table Demo
+11:51:31.841 [main] INFO  com.NewAutomationProject.testCases.TC_002_Guru99TableDemoTest - table size got successfully
+11:51:31.969 [main] INFO  com.NewAutomationProject.testCases.TC_002_Guru99TableDemoTest - got the second row data successfully
+12:04:35.091 [main] INFO  com.NewAutomationProject.testCases.TC_002_Guru99TableDemoTest - successfully entered email address
+12:04:37.719 [main] INFO  com.NewAutomationProject.testCases.TC_002_Guru99TableDemoTest - clicked on submit button and navigate to the Dashboard page
+12:04:37.773 [main] INFO  com.NewAutomationProject.testCases.TC_002_Guru99TableDemoTest - assertion condition is true
+12:04:37.882 [main] INFO  com.NewAutomationProject.testCases.TC_002_Guru99TableDemoTest - clicked on the selenium DropDown
+12:04:39.252 [main] INFO  com.NewAutomationProject.testCases.TC_002_Guru99TableDemoTest - successfully clicked on the Table Demo
+12:04:39.298 [main] INFO  com.NewAutomationProject.testCases.TC_002_Guru99TableDemoTest - table size got successfully
+12:04:39.404 [main] INFO  com.NewAutomationProject.testCases.TC_002_Guru99TableDemoTest - got the second row data successfully
+12:04:39.501 [main] INFO  com.NewAutomationProject.testCases.TC_002_Guru99TableDemoTest - got the sum,average successfully
+12:41:47.981 [main] INFO  com.NewAutomationProject.testCases.TC_003_Guru99AccessingLink - successfully entered email address
+12:41:49.999 [main] INFO  com.NewAutomationProject.testCases.TC_003_Guru99AccessingLink - clicked on submit button and navigate to the Dashboard page
+12:41:50.046 [main] INFO  com.NewAutomationProject.testCases.TC_003_Guru99AccessingLink - assertion condition is true
+12:41:50.132 [main] INFO  com.NewAutomationProject.testCases.TC_003_Guru99AccessingLink - clicked on the selenium DropDown
+12:41:51.168 [main] INFO  com.NewAutomationProject.testCases.TC_003_Guru99AccessingLink - successfully clicked on the Table Demo
+12:41:51.215 [main] INFO  com.NewAutomationProject.testCases.TC_003_Guru99AccessingLink - table size got successfully
+12:41:51.334 [main] INFO  com.NewAutomationProject.testCases.TC_003_Guru99AccessingLink - got the second row data successfully
+12:41:51.437 [main] INFO  com.NewAutomationProject.testCases.TC_003_Guru99AccessingLink - got the sum,average successfully 
+12:41:51.531 [main] INFO  com.NewAutomationProject.testCases.TC_003_Guru99AccessingLink - clicked on the selenium DropDown
+12:41:52.262 [main] INFO  com.NewAutomationProject.testCases.TC_003_Guru99AccessingLink - clicked on the accessing the link
+12:41:52.298 [main] INFO  com.NewAutomationProject.testCases.TC_003_Guru99AccessingLink - got all the links from the WebPage
+14:10:26.628 [main] INFO  com.NewAutomationProject.testCases.TC_004_Guru99DragAndDropTest - successfully entered email address
+14:10:28.838 [main] INFO  com.NewAutomationProject.testCases.TC_004_Guru99DragAndDropTest - clicked on submit button and navigate to the Dashboard page
+14:10:28.918 [main] INFO  com.NewAutomationProject.testCases.TC_004_Guru99DragAndDropTest - assertion condition is true
+14:10:29.017 [main] INFO  com.NewAutomationProject.testCases.TC_004_Guru99DragAndDropTest - clicked on the selenium DropDown
+14:10:30.184 [main] INFO  com.NewAutomationProject.testCases.TC_004_Guru99DragAndDropTest - successfully clicked on the Table Demo
+14:10:30.229 [main] INFO  com.NewAutomationProject.testCases.TC_004_Guru99DragAndDropTest - table size got successfully
+14:10:30.328 [main] INFO  com.NewAutomationProject.testCases.TC_004_Guru99DragAndDropTest - got the second row data successfully
+14:10:30.406 [main] INFO  com.NewAutomationProject.testCases.TC_004_Guru99DragAndDropTest - got the sum,average successfully 
+14:10:30.550 [main] INFO  com.NewAutomationProject.testCases.TC_004_Guru99DragAndDropTest - clicked on the selenium DropDown
+14:10:31.211 [main] INFO  com.NewAutomationProject.testCases.TC_004_Guru99DragAndDropTest - clicked on the accessing the link
+14:10:31.267 [main] INFO  com.NewAutomationProject.testCases.TC_004_Guru99DragAndDropTest - got all the links from the WebPage
+14:10:31.399 [main] INFO  com.NewAutomationProject.testCases.TC_004_Guru99DragAndDropTest - clicked on the selenium DropDown
+14:10:32.911 [main] INFO  com.NewAutomationProject.testCases.TC_004_Guru99DragAndDropTest - successfully clicked on the drag and drop link

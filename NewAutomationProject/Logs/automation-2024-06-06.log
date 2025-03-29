@@ -1,0 +1,40 @@
+11:19:59.807 [TestNG-tests-2] INFO  com.NewAutomationProject.testCases.TC_001_OrangeHrmLoginTest - entered username successfully
+11:19:59.917 [TestNG-tests-2] INFO  com.NewAutomationProject.testCases.TC_001_OrangeHrmLoginTest - entered password successfully
+11:20:02.540 [TestNG-tests-2] INFO  com.NewAutomationProject.testCases.TC_001_OrangeHrmLoginTest - clicked on login button
+11:40:34.197 [TestNG-tests-1] INFO  com.NewAutomationProject.testCases.TC_001_OrangeHrmLoginTest - entered username successfully
+11:40:34.319 [TestNG-tests-1] INFO  com.NewAutomationProject.testCases.TC_001_OrangeHrmLoginTest - entered password successfully
+11:40:34.753 [TestNG-tests-2] INFO  com.NewAutomationProject.testCases.TC_001_OrangeHrmLoginTest - entered username successfully
+11:40:34.928 [TestNG-tests-2] INFO  com.NewAutomationProject.testCases.TC_001_OrangeHrmLoginTest - entered password successfully
+11:40:35.587 [TestNG-tests-1] INFO  com.NewAutomationProject.testCases.TC_001_OrangeHrmLoginTest - clicked on login button
+11:40:36.289 [TestNG-tests-2] INFO  com.NewAutomationProject.testCases.TC_001_OrangeHrmLoginTest - clicked on login button
+11:40:45.244 [TestNG-tests-2] INFO  com.NewAutomationProject.testCases.TC_002_OrangeHrmDashboardTest - entered username
+11:40:45.366 [TestNG-tests-2] INFO  com.NewAutomationProject.testCases.TC_002_OrangeHrmDashboardTest - entered username
+11:40:46.717 [TestNG-tests-2] INFO  com.NewAutomationProject.testCases.TC_002_OrangeHrmDashboardTest - clicked on login button
+11:40:46.823 [TestNG-tests-1] INFO  com.NewAutomationProject.testCases.TC_002_OrangeHrmDashboardTest - entered username
+11:40:46.923 [TestNG-tests-1] INFO  com.NewAutomationProject.testCases.TC_002_OrangeHrmDashboardTest - entered username
+11:40:48.390 [TestNG-tests-1] INFO  com.NewAutomationProject.testCases.TC_002_OrangeHrmDashboardTest - clicked on login button
+11:51:39.719 [TestNG-tests-1] INFO  com.NewAutomationProject.testCases.TC_001_OrangeHrmLoginTest - entered username successfully
+11:51:39.870 [TestNG-tests-1] INFO  com.NewAutomationProject.testCases.TC_001_OrangeHrmLoginTest - entered password successfully
+11:51:40.542 [TestNG-tests-2] INFO  com.NewAutomationProject.testCases.TC_001_OrangeHrmLoginTest - entered username successfully
+11:51:40.658 [TestNG-tests-2] INFO  com.NewAutomationProject.testCases.TC_001_OrangeHrmLoginTest - entered password successfully
+11:51:41.214 [TestNG-tests-1] INFO  com.NewAutomationProject.testCases.TC_001_OrangeHrmLoginTest - clicked on login button
+11:51:41.948 [TestNG-tests-2] INFO  com.NewAutomationProject.testCases.TC_001_OrangeHrmLoginTest - clicked on login button
+11:51:47.908 [TestNG-tests-1] INFO  com.NewAutomationProject.testCases.TC_002_OrangeHrmDashboardTest - entered username
+11:51:48.017 [TestNG-tests-1] INFO  com.NewAutomationProject.testCases.TC_002_OrangeHrmDashboardTest - entered username
+11:51:48.114 [TestNG-tests-1] INFO  com.NewAutomationProject.testCases.TC_002_OrangeHrmDashboardTest - clicked on login button
+11:51:53.875 [TestNG-tests-2] INFO  com.NewAutomationProject.testCases.TC_002_OrangeHrmDashboardTest - entered username
+11:51:53.976 [TestNG-tests-2] INFO  com.NewAutomationProject.testCases.TC_002_OrangeHrmDashboardTest - entered username
+11:51:55.236 [TestNG-tests-2] INFO  com.NewAutomationProject.testCases.TC_002_OrangeHrmDashboardTest - clicked on login button
+12:15:48.256 [TestNG-tests-2] INFO  com.NewAutomationProject.testCases.TC_001_OrangeHrmLoginTest - entered username successfully
+12:15:48.419 [TestNG-tests-2] INFO  com.NewAutomationProject.testCases.TC_001_OrangeHrmLoginTest - entered password successfully
+12:15:49.807 [TestNG-tests-2] INFO  com.NewAutomationProject.testCases.TC_001_OrangeHrmLoginTest - clicked on login button
+12:15:51.715 [TestNG-tests-1] INFO  com.NewAutomationProject.testCases.TC_001_OrangeHrmLoginTest - entered username successfully
+12:15:51.820 [TestNG-tests-1] INFO  com.NewAutomationProject.testCases.TC_001_OrangeHrmLoginTest - entered password successfully
+12:15:51.888 [TestNG-tests-1] INFO  com.NewAutomationProject.testCases.TC_001_OrangeHrmLoginTest - clicked on login button
+12:15:59.302 [TestNG-tests-1] INFO  com.NewAutomationProject.testCases.TC_002_OrangeHrmDashboardTest - entered username
+12:15:59.402 [TestNG-tests-1] INFO  com.NewAutomationProject.testCases.TC_002_OrangeHrmDashboardTest - entered username
+12:16:00.788 [TestNG-tests-1] INFO  com.NewAutomationProject.testCases.TC_002_OrangeHrmDashboardTest - clicked on login button
+12:16:00.820 [TestNG-tests-2] INFO  com.NewAutomationProject.testCases.TC_002_OrangeHrmDashboardTest - entered username
+12:16:00.947 [TestNG-tests-2] INFO  com.NewAutomationProject.testCases.TC_002_OrangeHrmDashboardTest - entered username
+12:16:01.029 [TestNG-tests-2] INFO  com.NewAutomationProject.testCases.TC_002_OrangeHrmDashboardTest - clicked on login button
+12:25:13.995 [TestNG-tests-2] INFO  com.NewAutomationProject.testCases.TC_001_OrangeHrmLoginTest - entered username successfully

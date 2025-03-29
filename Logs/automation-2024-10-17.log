@@ -1,0 +1,38 @@
+13:53:48.223 [main] INFO  com.NewAutomationProject.testCases.TC_008_DemoQaMain_DatePicker_Test - clicked on the submit button successfully
+13:53:48.388 [main] INFO  com.NewAutomationProject.testCases.TC_008_DemoQaMain_DatePicker_Test - clicked on checkbox successfully
+13:53:48.466 [main] INFO  com.NewAutomationProject.testCases.TC_008_DemoQaMain_DatePicker_Test - clicked on drp checkbox 
+13:54:18.533 [main] INFO  com.NewAutomationProject.testCases.TC_008_DemoQaMain_DatePicker_Test - printed all the checkboxes over the webpage
+13:54:48.600 [main] INFO  com.NewAutomationProject.testCases.TC_008_DemoQaMain_DatePicker_Test - successfully selected the first two checkBoxes
+13:55:18.673 [main] INFO  com.NewAutomationProject.testCases.TC_008_DemoQaMain_DatePicker_Test - successfully got the size of the radio button
+13:55:48.761 [main] INFO  com.NewAutomationProject.testCases.TC_008_DemoQaMain_DatePicker_Test - successfully clicked on the radio button
+13:56:18.847 [main] INFO  com.NewAutomationProject.testCases.TC_008_DemoQaMain_DatePicker_Test - successfully got the text from the webtables
+13:56:19.117 [main] INFO  com.NewAutomationProject.testCases.TC_008_DemoQaMain_DatePicker_Test - successfully clicked on the buttons
+13:56:19.549 [main] INFO  com.NewAutomationProject.testCases.TC_008_DemoQaMain_DatePicker_Test - successfully performed the double click
+13:56:24.783 [main] INFO  com.NewAutomationProject.testCases.TC_008_DemoQaMain_DatePicker_Test - clicked on the right click button
+13:56:24.810 [main] INFO  com.NewAutomationProject.testCases.TC_008_DemoQaMain_DatePicker_Test - scrolled successfully upto right click
+13:56:24.981 [main] INFO  com.NewAutomationProject.testCases.TC_008_DemoQaMain_DatePicker_Test - successfully clicked on the click option
+13:56:25.174 [main] INFO  com.NewAutomationProject.testCases.TC_008_DemoQaMain_DatePicker_Test - successfully got the links
+13:56:25.259 [main] INFO  com.NewAutomationProject.testCases.TC_008_DemoQaMain_DatePicker_Test - clicked on all option Dropdown
+13:56:25.283 [main] INFO  com.NewAutomationProject.testCases.TC_008_DemoQaMain_DatePicker_Test - successfully has been scrolled
+13:56:25.283 [main] INFO  com.NewAutomationProject.testCases.TC_008_DemoQaMain_DatePicker_Test - clicked on the alert icon
+13:57:53.236 [main] INFO  com.NewAutomationProject.testCases.TC_008_DemoQaMain_DatePicker_Test - clicked on the textbox btn successfully
+13:57:53.554 [main] INFO  com.NewAutomationProject.testCases.TC_008_DemoQaMain_DatePicker_Test - entered the full name 
+13:57:53.672 [main] INFO  com.NewAutomationProject.testCases.TC_008_DemoQaMain_DatePicker_Test - entered the email successfully
+13:57:53.804 [main] INFO  com.NewAutomationProject.testCases.TC_008_DemoQaMain_DatePicker_Test - enterd the address successfully
+13:57:53.847 [main] INFO  com.NewAutomationProject.testCases.TC_008_DemoQaMain_DatePicker_Test - scrolled the page successfully
+13:57:53.986 [main] INFO  com.NewAutomationProject.testCases.TC_008_DemoQaMain_DatePicker_Test - entered a permanent address
+13:57:54.077 [main] INFO  com.NewAutomationProject.testCases.TC_008_DemoQaMain_DatePicker_Test - clicked on the submit button successfully
+13:57:54.217 [main] INFO  com.NewAutomationProject.testCases.TC_008_DemoQaMain_DatePicker_Test - clicked on checkbox successfully
+13:57:54.349 [main] INFO  com.NewAutomationProject.testCases.TC_008_DemoQaMain_DatePicker_Test - clicked on drp checkbox 
+13:57:54.378 [main] INFO  com.NewAutomationProject.testCases.TC_008_DemoQaMain_DatePicker_Test - printed all the checkboxes over the webpage
+13:57:54.535 [main] INFO  com.NewAutomationProject.testCases.TC_008_DemoQaMain_DatePicker_Test - successfully selected the first two checkBoxes
+13:58:24.580 [main] INFO  com.NewAutomationProject.testCases.TC_008_DemoQaMain_DatePicker_Test - successfully got the size of the radio button
+13:58:54.634 [main] INFO  com.NewAutomationProject.testCases.TC_008_DemoQaMain_DatePicker_Test - successfully clicked on the radio button
+13:59:09.496 [main] INFO  com.NewAutomationProject.testCases.TC_008_DemoQaMain_DatePicker_Test - successfully got the text from the webtables
+13:59:38.843 [main] INFO  com.NewAutomationProject.testCases.TC_008_DemoQaMain_DatePicker_Test - clicked on the textbox btn successfully
+13:59:39.192 [main] INFO  com.NewAutomationProject.testCases.TC_008_DemoQaMain_DatePicker_Test - entered the full name 
+13:59:39.298 [main] INFO  com.NewAutomationProject.testCases.TC_008_DemoQaMain_DatePicker_Test - entered the email successfully
+13:59:39.401 [main] INFO  com.NewAutomationProject.testCases.TC_008_DemoQaMain_DatePicker_Test - enterd the address successfully
+13:59:39.431 [main] INFO  com.NewAutomationProject.testCases.TC_008_DemoQaMain_DatePicker_Test - scrolled the page successfully
+13:59:39.548 [main] INFO  com.NewAutomationProject.testCases.TC_008_DemoQaMain_DatePicker_Test - entered a permanent address
+13:59:39.610 [main] INFO  com.NewAutomationProject.testCases.TC_008_DemoQaMain_DatePicker_Test - clicked on the submit button successfully

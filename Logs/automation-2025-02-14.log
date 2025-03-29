@@ -1,0 +1,32 @@
+08:52:18.044 [TestNG-tests-2] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully is handled that page is displaying or not
+08:52:18.080 [TestNG-tests-2] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully has performed all the raddio button operations
+08:52:18.117 [TestNG-tests-1] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully has selected the second radion button
+08:52:18.264 [TestNG-tests-1] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully got the size of all the checkBoxes
+08:52:18.285 [TestNG-tests-2] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully has selected the second radion button
+08:52:18.477 [TestNG-tests-2] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully got the size of all the checkBoxes
+08:52:18.533 [TestNG-tests-1] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully has selected the all the last two checkboxes
+08:52:18.656 [TestNG-tests-1] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully clicked on the alert
+08:52:18.721 [TestNG-tests-1] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully has scrolled upto the webtable text
+08:52:18.754 [TestNG-tests-1] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully got the size of the WebTable
+08:52:18.802 [TestNG-tests-2] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully has selected the all the last two checkboxes
+08:52:19.000 [TestNG-tests-2] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully clicked on the alert
+08:52:19.090 [TestNG-tests-2] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully has scrolled upto the webtable text
+08:52:19.160 [TestNG-tests-2] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully got the size of the WebTable
+08:52:19.935 [TestNG-tests-1] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully got the size of the Webtable
+08:52:19.967 [TestNG-tests-1] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully got the specific data from the webtable and printed it successfully
+08:52:19.998 [TestNG-tests-1] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully has scrolled uptp the text of mouse Hover
+08:52:20.570 [TestNG-tests-2] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully got the size of the Webtable
+08:52:20.624 [TestNG-tests-2] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully got the specific data from the webtable and printed it successfully
+08:52:20.667 [TestNG-tests-2] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully has scrolled uptp the text of mouse Hover
+08:52:21.563 [TestNG-tests-1] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully has performed the mouse hover action using the actions class on the webpage
+08:52:21.586 [TestNG-tests-1] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully got the total numbers of the links on the webtable
+08:52:22.254 [TestNG-tests-1] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully got the text of the links on the webpage
+08:52:22.315 [TestNG-tests-1] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully got the cookies and its values which are on the webpage
+08:52:22.390 [TestNG-tests-2] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully has performed the mouse hover action using the actions class on the webpage
+08:52:22.406 [TestNG-tests-1] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully has switched into the frame
+08:52:22.455 [TestNG-tests-2] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully got the total numbers of the links on the webtable
+08:52:22.779 [TestNG-tests-1] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully clicked on the courses link on the webtable
+08:52:23.245 [TestNG-tests-2] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully got the text of the links on the webpage
+08:52:23.254 [TestNG-tests-2] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully got the cookies and its values which are on the webpage
+08:52:23.297 [TestNG-tests-2] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully has switched into the frame
+08:52:23.581 [TestNG-tests-2] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully clicked on the courses link on the webtable

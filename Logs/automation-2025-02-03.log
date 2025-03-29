@@ -1,0 +1,34 @@
+14:25:53.182 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully got the cookies and its values which are on the webpage
+14:25:53.239 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully has switched into the frame
+14:25:53.674 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully clicked on the courses link on the webtable
+14:26:32.848 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully has performed all the raddio button operations
+14:26:33.022 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully has selected the second radion button
+14:26:33.153 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully got the size of all the checkBoxes
+14:26:33.330 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully has selected the all the last two checkboxes
+14:26:33.418 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully clicked on the alert
+14:26:33.471 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully has scrolled upto the webtable text
+14:26:33.502 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully got the size of the WebTable
+14:26:34.367 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully got the size of the Webtable
+14:26:34.388 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully got the specific data from the webtable and printed it successfully
+14:26:34.412 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully has scrolled uptp the text of mouse Hover
+14:26:35.529 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully has performed the mouse hover action using the actions class on the webpage
+14:26:35.554 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully got the total numbers of the links on the webtable
+14:26:35.915 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully got the text of the links on the webpage
+14:26:35.927 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully got the cookies and its values which are on the webpage
+14:26:35.965 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully has switched into the frame
+14:26:36.436 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully clicked on the courses link on the webtable
+14:27:25.839 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully has performed all the raddio button operations
+14:27:26.008 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully has selected the second radion button
+14:27:26.129 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully got the size of all the checkBoxes
+14:27:26.317 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully has selected the all the last two checkboxes
+14:27:26.424 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully clicked on the alert
+14:27:26.500 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully has scrolled upto the webtable text
+14:27:26.540 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully got the size of the WebTable
+14:27:27.380 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully got the size of the Webtable
+14:27:27.406 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully got the specific data from the webtable and printed it successfully
+14:27:27.427 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully has scrolled uptp the text of mouse Hover
+14:27:29.067 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully has performed the mouse hover action using the actions class on the webpage
+14:27:29.091 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully got the total numbers of the links on the webtable
+14:27:29.453 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully got the text of the links on the webpage
+14:27:29.464 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully got the cookies and its values which are on the webpage
+14:27:29.501 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully has switched into the frame

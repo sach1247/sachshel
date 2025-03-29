@@ -1,0 +1,37 @@
+11:50:27.055 [main] INFO  com.NewAutomationProject.testCases.TC_003_DemoQaMainPage_RadioBtn_Test - clicked on drp checkbox 
+11:50:57.121 [main] INFO  com.NewAutomationProject.testCases.TC_003_DemoQaMainPage_RadioBtn_Test - printed all the checkboxes over the webpage
+11:51:27.194 [main] INFO  com.NewAutomationProject.testCases.TC_003_DemoQaMainPage_RadioBtn_Test - successfully selected the first two checkBoxes
+11:51:57.252 [main] INFO  com.NewAutomationProject.testCases.TC_003_DemoQaMainPage_RadioBtn_Test - successfully got the size of the radio button
+11:52:27.310 [main] INFO  com.NewAutomationProject.testCases.TC_003_DemoQaMainPage_RadioBtn_Test - successfully clicked on the radio button
+12:13:11.053 [main] INFO  com.NewAutomationProject.testCases.TC_007_DemoQaMain_Alert_Window_Page - clicked on the textbox btn successfully
+12:13:11.330 [main] INFO  com.NewAutomationProject.testCases.TC_007_DemoQaMain_Alert_Window_Page - entered the full name 
+12:13:11.468 [main] INFO  com.NewAutomationProject.testCases.TC_007_DemoQaMain_Alert_Window_Page - entered the email successfully
+12:13:11.600 [main] INFO  com.NewAutomationProject.testCases.TC_007_DemoQaMain_Alert_Window_Page - enterd the address successfully
+12:13:11.630 [main] INFO  com.NewAutomationProject.testCases.TC_007_DemoQaMain_Alert_Window_Page - scrolled the page successfully
+12:13:11.745 [main] INFO  com.NewAutomationProject.testCases.TC_007_DemoQaMain_Alert_Window_Page - entered a permanent address
+12:13:11.822 [main] INFO  com.NewAutomationProject.testCases.TC_007_DemoQaMain_Alert_Window_Page - clicked on the submit button successfully
+12:13:11.976 [main] INFO  com.NewAutomationProject.testCases.TC_007_DemoQaMain_Alert_Window_Page - clicked on checkbox successfully
+12:13:12.166 [main] INFO  com.NewAutomationProject.testCases.TC_007_DemoQaMain_Alert_Window_Page - clicked on drp checkbox 
+12:13:12.200 [main] INFO  com.NewAutomationProject.testCases.TC_007_DemoQaMain_Alert_Window_Page - printed all the checkboxes over the webpage
+12:13:12.376 [main] INFO  com.NewAutomationProject.testCases.TC_007_DemoQaMain_Alert_Window_Page - successfully selected the first two checkBoxes
+12:13:42.445 [main] INFO  com.NewAutomationProject.testCases.TC_007_DemoQaMain_Alert_Window_Page - successfully got the size of the radio button
+12:14:12.505 [main] INFO  com.NewAutomationProject.testCases.TC_007_DemoQaMain_Alert_Window_Page - successfully clicked on the radio button
+12:14:42.600 [main] INFO  com.NewAutomationProject.testCases.TC_007_DemoQaMain_Alert_Window_Page - successfully got the text from the webtables
+12:14:42.865 [main] INFO  com.NewAutomationProject.testCases.TC_007_DemoQaMain_Alert_Window_Page - successfully clicked on the buttons
+12:14:43.122 [main] INFO  com.NewAutomationProject.testCases.TC_007_DemoQaMain_Alert_Window_Page - successfully performed the double click
+12:14:43.331 [main] INFO  com.NewAutomationProject.testCases.TC_007_DemoQaMain_Alert_Window_Page - clicked on the right click button
+12:14:43.400 [main] INFO  com.NewAutomationProject.testCases.TC_007_DemoQaMain_Alert_Window_Page - scrolled successfully upto right click
+12:14:43.528 [main] INFO  com.NewAutomationProject.testCases.TC_007_DemoQaMain_Alert_Window_Page - successfully clicked on the click option
+12:14:43.646 [main] INFO  com.NewAutomationProject.testCases.TC_007_DemoQaMain_Alert_Window_Page - successfully got the links
+14:24:46.977 [main] INFO  com.NewAutomationProject.testCases.TC_008_DemoQaMain_DatePicker_Test - clicked on the textbox btn successfully
+14:24:47.308 [main] INFO  com.NewAutomationProject.testCases.TC_008_DemoQaMain_DatePicker_Test - entered the full name 
+14:24:47.418 [main] INFO  com.NewAutomationProject.testCases.TC_008_DemoQaMain_DatePicker_Test - entered the email successfully
+14:24:47.514 [main] INFO  com.NewAutomationProject.testCases.TC_008_DemoQaMain_DatePicker_Test - enterd the address successfully
+14:24:47.576 [main] INFO  com.NewAutomationProject.testCases.TC_008_DemoQaMain_DatePicker_Test - scrolled the page successfully
+14:24:47.752 [main] INFO  com.NewAutomationProject.testCases.TC_008_DemoQaMain_DatePicker_Test - entered a permanent address
+14:24:47.852 [main] INFO  com.NewAutomationProject.testCases.TC_008_DemoQaMain_DatePicker_Test - clicked on the submit button successfully
+14:24:48.031 [main] INFO  com.NewAutomationProject.testCases.TC_008_DemoQaMain_DatePicker_Test - clicked on checkbox successfully
+14:24:48.247 [main] INFO  com.NewAutomationProject.testCases.TC_008_DemoQaMain_DatePicker_Test - clicked on drp checkbox 
+14:24:48.274 [main] INFO  com.NewAutomationProject.testCases.TC_008_DemoQaMain_DatePicker_Test - printed all the checkboxes over the webpage
+14:24:48.462 [main] INFO  com.NewAutomationProject.testCases.TC_008_DemoQaMain_DatePicker_Test - successfully selected the first two checkBoxes
+14:25:18.490 [main] INFO  com.NewAutomationProject.testCases.TC_008_DemoQaMain_DatePicker_Test - successfully got the size of the radio button

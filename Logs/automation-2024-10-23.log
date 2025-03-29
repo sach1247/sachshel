@@ -1,0 +1,38 @@
+11:23:53.611 [main] INFO  com.NewAutomationProject.testCases.TC_007_Guru99CookiesHandleTest - clicked on the selenium DropDown
+11:23:55.491 [main] INFO  com.NewAutomationProject.testCases.TC_007_Guru99CookiesHandleTest - successfully clicked on the file upload links
+11:23:55.621 [main] INFO  com.NewAutomationProject.testCases.TC_007_Guru99CookiesHandleTest - successfully upload the file
+11:23:55.766 [main] INFO  com.NewAutomationProject.testCases.TC_007_Guru99CookiesHandleTest - clicked on the selenium DropDown
+11:23:55.825 [main] INFO  com.NewAutomationProject.testCases.TC_007_Guru99CookiesHandleTest - successfully scroll the page upto sumbmit button
+11:23:56.947 [main] INFO  com.NewAutomationProject.testCases.TC_007_Guru99CookiesHandleTest - successfully cliked on the cookies Demo link
+11:36:13.172 [main] INFO  com.NewAutomationProject.testCases.TC_007_Guru99CookiesHandleTest - successfully entered email address
+11:36:15.405 [main] INFO  com.NewAutomationProject.testCases.TC_007_Guru99CookiesHandleTest - clicked on submit button and navigate to the Dashboard page
+11:36:15.453 [main] INFO  com.NewAutomationProject.testCases.TC_007_Guru99CookiesHandleTest - assertion condition is true
+11:36:15.536 [main] INFO  com.NewAutomationProject.testCases.TC_007_Guru99CookiesHandleTest - clicked on the selenium DropDown
+11:36:16.925 [main] INFO  com.NewAutomationProject.testCases.TC_007_Guru99CookiesHandleTest - successfully clicked on the Table Demo
+11:36:16.993 [main] INFO  com.NewAutomationProject.testCases.TC_007_Guru99CookiesHandleTest - table size got successfully
+11:36:17.078 [main] INFO  com.NewAutomationProject.testCases.TC_007_Guru99CookiesHandleTest - got the second row data successfully
+11:36:17.148 [main] INFO  com.NewAutomationProject.testCases.TC_007_Guru99CookiesHandleTest - got the sum,average successfully 
+11:36:17.372 [main] INFO  com.NewAutomationProject.testCases.TC_007_Guru99CookiesHandleTest - clicked on the selenium DropDown
+11:36:18.038 [main] INFO  com.NewAutomationProject.testCases.TC_007_Guru99CookiesHandleTest - clicked on the accessing the link
+11:36:18.077 [main] INFO  com.NewAutomationProject.testCases.TC_007_Guru99CookiesHandleTest - got all the links from the WebPage
+11:36:18.166 [main] INFO  com.NewAutomationProject.testCases.TC_007_Guru99CookiesHandleTest - clicked on the selenium DropDown
+11:36:19.786 [main] INFO  com.NewAutomationProject.testCases.TC_007_Guru99CookiesHandleTest - successfully clicked on the drag and drop link
+11:36:20.349 [main] INFO  com.NewAutomationProject.testCases.TC_007_Guru99CookiesHandleTest - successfully draged and drop on the box
+11:36:20.443 [main] INFO  com.NewAutomationProject.testCases.TC_007_Guru99CookiesHandleTest - clicked on the selenium DropDown
+11:36:20.492 [main] INFO  com.NewAutomationProject.testCases.TC_007_Guru99CookiesHandleTest - successfully scrolled the page for datepicker handling
+11:36:21.275 [main] INFO  com.NewAutomationProject.testCases.TC_007_Guru99CookiesHandleTest - successfully clicked on the Dateikcker Icon
+11:36:21.385 [main] INFO  com.NewAutomationProject.testCases.TC_007_Guru99CookiesHandleTest - successfully has entered the date of birth
+11:36:21.468 [main] INFO  com.NewAutomationProject.testCases.TC_007_Guru99CookiesHandleTest - clicked on the selenium DropDown
+11:36:24.230 [main] INFO  com.NewAutomationProject.testCases.TC_007_Guru99CookiesHandleTest - successfully clicked on the file upload links
+11:36:24.310 [main] INFO  com.NewAutomationProject.testCases.TC_007_Guru99CookiesHandleTest - successfully upload the file
+11:36:24.397 [main] INFO  com.NewAutomationProject.testCases.TC_007_Guru99CookiesHandleTest - clicked on the selenium DropDown
+11:36:24.444 [main] INFO  com.NewAutomationProject.testCases.TC_007_Guru99CookiesHandleTest - successfully scroll the page upto sumbmit button
+11:36:25.773 [main] INFO  com.NewAutomationProject.testCases.TC_007_Guru99CookiesHandleTest - successfully cliked on the cookies Demo link
+11:36:25.786 [main] INFO  com.NewAutomationProject.testCases.TC_007_Guru99CookiesHandleTest - got the cookies successfully
+11:37:12.215 [main] INFO  com.NewAutomationProject.testCases.TC_007_Guru99CookiesHandleTest - successfully entered email address
+11:37:14.882 [main] INFO  com.NewAutomationProject.testCases.TC_007_Guru99CookiesHandleTest - clicked on submit button and navigate to the Dashboard page
+11:37:14.925 [main] INFO  com.NewAutomationProject.testCases.TC_007_Guru99CookiesHandleTest - assertion condition is true
+11:37:15.000 [main] INFO  com.NewAutomationProject.testCases.TC_007_Guru99CookiesHandleTest - clicked on the selenium DropDown
+11:37:16.055 [main] INFO  com.NewAutomationProject.testCases.TC_007_Guru99CookiesHandleTest - successfully clicked on the Table Demo
+11:37:16.083 [main] INFO  com.NewAutomationProject.testCases.TC_007_Guru99CookiesHandleTest - table size got successfully
+11:37:16.157 [main] INFO  com.NewAutomationProject.testCases.TC_007_Guru99CookiesHandleTest - got the second row data successfully

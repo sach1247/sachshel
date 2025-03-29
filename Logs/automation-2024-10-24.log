@@ -1,0 +1,36 @@
+14:18:02.128 [main] INFO  com.NewAutomationProject.testCases.TC_007_Guru99CookiesHandleTest - successfully upload the file
+14:18:02.268 [main] INFO  com.NewAutomationProject.testCases.TC_007_Guru99CookiesHandleTest - clicked on the selenium DropDown
+14:18:02.308 [main] INFO  com.NewAutomationProject.testCases.TC_007_Guru99CookiesHandleTest - successfully scroll the page upto sumbmit button
+14:18:03.291 [main] INFO  com.NewAutomationProject.testCases.TC_007_Guru99CookiesHandleTest - successfully cliked on the cookies Demo link
+14:18:03.452 [main] INFO  com.NewAutomationProject.testCases.TC_007_Guru99CookiesHandleTest - got the cookies successfully
+14:18:03.460 [main] INFO  com.NewAutomationProject.testCases.TC_007_Guru99CookiesHandleTest - successfully handled all the cookies from the browser
+14:57:17.845 [main] INFO  com.NewAutomationProject.testCases.TC_008_Guru99LoginLinkScreenshotTest - successfully entered email address
+14:57:20.179 [main] INFO  com.NewAutomationProject.testCases.TC_008_Guru99LoginLinkScreenshotTest - clicked on submit button and navigate to the Dashboard page
+14:57:20.235 [main] INFO  com.NewAutomationProject.testCases.TC_008_Guru99LoginLinkScreenshotTest - assertion condition is true
+14:57:20.326 [main] INFO  com.NewAutomationProject.testCases.TC_008_Guru99LoginLinkScreenshotTest - clicked on the selenium DropDown
+14:57:21.693 [main] INFO  com.NewAutomationProject.testCases.TC_008_Guru99LoginLinkScreenshotTest - successfully clicked on the Table Demo
+14:57:21.737 [main] INFO  com.NewAutomationProject.testCases.TC_008_Guru99LoginLinkScreenshotTest - table size got successfully
+14:57:21.842 [main] INFO  com.NewAutomationProject.testCases.TC_008_Guru99LoginLinkScreenshotTest - got the second row data successfully
+14:57:21.950 [main] INFO  com.NewAutomationProject.testCases.TC_008_Guru99LoginLinkScreenshotTest - got the sum,average successfully 
+14:57:22.023 [main] INFO  com.NewAutomationProject.testCases.TC_008_Guru99LoginLinkScreenshotTest - clicked on the selenium DropDown
+14:57:22.662 [main] INFO  com.NewAutomationProject.testCases.TC_008_Guru99LoginLinkScreenshotTest - clicked on the accessing the link
+14:57:22.703 [main] INFO  com.NewAutomationProject.testCases.TC_008_Guru99LoginLinkScreenshotTest - got all the links from the WebPage
+14:57:22.791 [main] INFO  com.NewAutomationProject.testCases.TC_008_Guru99LoginLinkScreenshotTest - clicked on the selenium DropDown
+14:57:24.063 [main] INFO  com.NewAutomationProject.testCases.TC_008_Guru99LoginLinkScreenshotTest - successfully clicked on the drag and drop link
+14:57:24.631 [main] INFO  com.NewAutomationProject.testCases.TC_008_Guru99LoginLinkScreenshotTest - successfully draged and drop on the box
+14:57:24.724 [main] INFO  com.NewAutomationProject.testCases.TC_008_Guru99LoginLinkScreenshotTest - clicked on the selenium DropDown
+14:57:24.780 [main] INFO  com.NewAutomationProject.testCases.TC_008_Guru99LoginLinkScreenshotTest - successfully scrolled the page for datepicker handling
+14:57:25.515 [main] INFO  com.NewAutomationProject.testCases.TC_008_Guru99LoginLinkScreenshotTest - successfully clicked on the Dateikcker Icon
+14:57:25.603 [main] INFO  com.NewAutomationProject.testCases.TC_008_Guru99LoginLinkScreenshotTest - successfully has entered the date of birth
+14:57:25.688 [main] INFO  com.NewAutomationProject.testCases.TC_008_Guru99LoginLinkScreenshotTest - clicked on the selenium DropDown
+14:57:27.426 [main] INFO  com.NewAutomationProject.testCases.TC_008_Guru99LoginLinkScreenshotTest - successfully clicked on the file upload links
+14:57:27.528 [main] INFO  com.NewAutomationProject.testCases.TC_008_Guru99LoginLinkScreenshotTest - successfully upload the file
+14:57:27.640 [main] INFO  com.NewAutomationProject.testCases.TC_008_Guru99LoginLinkScreenshotTest - clicked on the selenium DropDown
+14:57:27.678 [main] INFO  com.NewAutomationProject.testCases.TC_008_Guru99LoginLinkScreenshotTest - successfully scroll the page upto sumbmit button
+14:57:28.718 [main] INFO  com.NewAutomationProject.testCases.TC_008_Guru99LoginLinkScreenshotTest - successfully cliked on the cookies Demo link
+14:57:28.862 [main] INFO  com.NewAutomationProject.testCases.TC_008_Guru99LoginLinkScreenshotTest - got the cookies successfully
+14:57:28.874 [main] INFO  com.NewAutomationProject.testCases.TC_008_Guru99LoginLinkScreenshotTest - successfully handled all the cookies from the browser
+14:58:31.006 [main] INFO  com.NewAutomationProject.testCases.TC_008_Guru99LoginLinkScreenshotTest - successfully entered email address
+14:58:33.192 [main] INFO  com.NewAutomationProject.testCases.TC_008_Guru99LoginLinkScreenshotTest - clicked on submit button and navigate to the Dashboard page
+14:58:33.237 [main] INFO  com.NewAutomationProject.testCases.TC_008_Guru99LoginLinkScreenshotTest - assertion condition is true
+14:58:33.308 [main] INFO  com.NewAutomationProject.testCases.TC_008_Guru99LoginLinkScreenshotTest - clicked on the selenium DropDown

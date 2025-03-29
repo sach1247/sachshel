@@ -1,0 +1,35 @@
+10:50:45.420 [main] INFO  com.NewAutomationProject.testCases.TC_003_OrangeHrmLeaveDash_Test - successfully selected the disabled option in the Dashboard page
+10:50:46.705 [main] INFO  com.NewAutomationProject.testCases.TC_003_OrangeHrmLeaveDash_Test - successfully clicked on the leave button which are in the dashboard page
+11:00:45.857 [main] INFO  com.NewAutomationProject.testCases.TC_003_OrangeHrmLeaveDash_Test - successfully Entered username in the login
+11:00:45.956 [main] INFO  com.NewAutomationProject.testCases.TC_003_OrangeHrmLeaveDash_Test - successfully Entered the password in the field
+11:00:46.075 [main] INFO  com.NewAutomationProject.testCases.TC_003_OrangeHrmLeaveDash_Test - successfully clicked on the login button
+11:00:51.475 [main] INFO  com.NewAutomationProject.testCases.TC_003_OrangeHrmLeaveDash_Test - successfully clicked on the admin button of the dashboard page
+11:00:53.214 [main] INFO  com.NewAutomationProject.testCases.TC_003_OrangeHrmLeaveDash_Test - successfully entered the username in the Dashboard page
+11:00:53.297 [main] INFO  com.NewAutomationProject.testCases.TC_003_OrangeHrmLeaveDash_Test - successfully clicked on the user role field option
+11:00:53.377 [main] INFO  com.NewAutomationProject.testCases.TC_003_OrangeHrmLeaveDash_Test - successfully selected the ESS option from the user option of the Dashboard
+13:51:01.597 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully has performed all the raddio button operations
+13:51:01.832 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully has selected the second radion button
+13:58:10.841 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully has performed all the raddio button operations
+13:59:00.996 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully has performed all the raddio button operations
+13:59:01.188 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully has selected the second radion button
+14:06:35.402 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully has performed all the raddio button operations
+14:06:35.638 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully has selected the second radion button
+14:06:35.825 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully got the size of all the checkBoxes
+14:19:43.001 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully has performed all the raddio button operations
+14:19:43.250 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully has selected the second radion button
+14:19:43.426 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully got the size of all the checkBoxes
+14:19:43.647 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully has selected the all the last two checkboxes
+14:33:42.609 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully has performed all the raddio button operations
+14:33:42.780 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully has selected the second radion button
+14:33:42.966 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully got the size of all the checkBoxes
+14:33:43.233 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully has selected the all the last two checkboxes
+14:33:43.316 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully clicked on the alert
+14:53:12.487 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully has performed all the raddio button operations
+14:53:12.638 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully has selected the second radion button
+14:53:12.784 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully got the size of all the checkBoxes
+14:53:13.004 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully has selected the all the last two checkboxes
+14:53:13.120 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully clicked on the alert
+14:57:25.834 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully has performed all the raddio button operations
+14:57:26.011 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully has selected the second radion button
+14:57:26.134 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully got the size of all the checkBoxes
+14:57:26.312 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully has selected the all the last two checkboxes

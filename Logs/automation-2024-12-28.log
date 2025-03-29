@@ -1,0 +1,36 @@
+14:09:59.868 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - successfully validated the disabled button
+14:09:59.905 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - successfully has scrolled upto the enabled button
+14:10:00.047 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - successfully selected the second radio button from the webpage
+14:10:00.194 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - successfully handled the alerts using alert class
+14:10:00.404 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - successfully handled the checkboxes
+14:10:00.531 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - successfully handled the prompt alert
+14:10:00.531 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - window has opened
+14:10:00.744 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - successfully counted the elements and printed all 
+14:10:00.770 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - successfully has fetched the pune city name from the webtable
+14:10:00.937 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - successfully entered username and password in the field
+14:10:01.035 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - successfully clicked on the login button of login page
+14:10:01.068 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - successfully scrolled upto login button
+14:10:01.107 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - successfully scrolled upto frame which we are going to handle
+14:10:01.302 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - successfully has double clicked
+14:10:01.452 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - successfully has checked button is enabled
+14:10:01.910 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - successfully handled the windows and closed the windwo which is initiated by the driver instance
+14:10:07.729 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - successfully handled the new window
+13:02:15.713 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - successfully selected the dropdown option id Hyundaix
+13:02:16.165 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - successfully got the all links from the webpage 
+13:02:16.283 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - successfully cleared the text which are in text box
+13:02:16.329 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - successfully validated the disabled button
+13:02:16.396 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - successfully has scrolled upto the enabled button
+13:02:16.469 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - successfully selected the second radio button from the webpage
+13:02:16.628 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - successfully handled the alerts using alert class
+13:02:16.791 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - successfully handled the checkboxes
+13:02:16.951 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - successfully handled the prompt alert
+13:02:16.953 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - window has opened
+13:02:17.176 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - successfully counted the elements and printed all 
+13:02:17.212 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - successfully has fetched the pune city name from the webtable
+13:02:17.411 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - successfully entered username and password in the field
+13:02:17.506 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - successfully clicked on the login button of login page
+13:02:17.543 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - successfully scrolled upto login button
+13:02:17.591 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - successfully scrolled upto frame which we are going to handle
+13:02:17.804 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - successfully has double clicked
+13:02:17.880 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - successfully has checked button is enabled
+13:02:18.232 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - successfully handled the windows and closed the windwo which is initiated by the driver instance

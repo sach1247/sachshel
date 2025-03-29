@@ -1,0 +1,39 @@
+17:12:08.746 [TestNG-tests-1] INFO  com.NewAutomationProject.testCases.TC_002_OrangeHrmDashboardTest - clicked on login button
+17:12:10.498 [TestNG-tests-1] INFO  com.NewAutomationProject.testCases.TC_002_OrangeHrmDashboardTest - clicked on leave button
+17:12:11.130 [TestNG-tests-1] INFO  com.NewAutomationProject.testCases.TC_002_OrangeHrmDashboardTest - clikced on datepicker calender
+17:12:11.203 [TestNG-tests-1] INFO  com.NewAutomationProject.testCases.TC_002_OrangeHrmDashboardTest - entered year date and month
+17:12:11.333 [TestNG-tests-1] INFO  com.NewAutomationProject.testCases.TC_002_OrangeHrmDashboardTest - entered year date and month for second datepicker
+17:12:16.021 [TestNG-tests-2] INFO  com.NewAutomationProject.testCases.TC_002_OrangeHrmDashboardTest - entered username
+17:12:16.130 [TestNG-tests-2] INFO  com.NewAutomationProject.testCases.TC_002_OrangeHrmDashboardTest - entered username
+17:12:17.494 [TestNG-tests-2] INFO  com.NewAutomationProject.testCases.TC_002_OrangeHrmDashboardTest - clicked on login button
+17:12:19.176 [TestNG-tests-2] INFO  com.NewAutomationProject.testCases.TC_002_OrangeHrmDashboardTest - clicked on leave button
+17:12:19.874 [TestNG-tests-2] INFO  com.NewAutomationProject.testCases.TC_002_OrangeHrmDashboardTest - clikced on datepicker calender
+17:12:19.954 [TestNG-tests-2] INFO  com.NewAutomationProject.testCases.TC_002_OrangeHrmDashboardTest - entered year date and month
+17:12:20.077 [TestNG-tests-2] INFO  com.NewAutomationProject.testCases.TC_002_OrangeHrmDashboardTest - entered year date and month for second datepicker
+17:25:45.914 [TestNG-tests-1] INFO  com.NewAutomationProject.testCases.TC_001_OrangeHrmLoginTest - entered username successfully
+17:25:46.054 [TestNG-tests-1] INFO  com.NewAutomationProject.testCases.TC_001_OrangeHrmLoginTest - entered password successfully
+17:25:46.135 [TestNG-tests-1] INFO  com.NewAutomationProject.testCases.TC_001_OrangeHrmLoginTest - clicked on login button
+17:25:47.939 [TestNG-tests-2] INFO  com.NewAutomationProject.testCases.TC_001_OrangeHrmLoginTest - entered username successfully
+17:25:48.073 [TestNG-tests-2] INFO  com.NewAutomationProject.testCases.TC_001_OrangeHrmLoginTest - entered password successfully
+17:25:49.418 [TestNG-tests-2] INFO  com.NewAutomationProject.testCases.TC_001_OrangeHrmLoginTest - clicked on login button
+17:25:52.932 [TestNG-tests-1] INFO  com.NewAutomationProject.testCases.TC_002_OrangeHrmDashboardTest - entered username
+17:25:53.059 [TestNG-tests-1] INFO  com.NewAutomationProject.testCases.TC_002_OrangeHrmDashboardTest - entered username
+17:25:54.430 [TestNG-tests-1] INFO  com.NewAutomationProject.testCases.TC_002_OrangeHrmDashboardTest - clicked on login button
+17:25:56.571 [TestNG-tests-1] INFO  com.NewAutomationProject.testCases.TC_002_OrangeHrmDashboardTest - clicked on leave button
+17:25:57.172 [TestNG-tests-1] INFO  com.NewAutomationProject.testCases.TC_002_OrangeHrmDashboardTest - clikced on datepicker calender
+17:25:57.252 [TestNG-tests-1] INFO  com.NewAutomationProject.testCases.TC_002_OrangeHrmDashboardTest - entered year date and month
+17:25:57.342 [TestNG-tests-1] INFO  com.NewAutomationProject.testCases.TC_002_OrangeHrmDashboardTest - entered year date and month for second datepicker
+17:25:57.903 [TestNG-tests-2] INFO  com.NewAutomationProject.testCases.TC_002_OrangeHrmDashboardTest - entered username
+17:25:58.022 [TestNG-tests-2] INFO  com.NewAutomationProject.testCases.TC_002_OrangeHrmDashboardTest - entered username
+17:25:58.101 [TestNG-tests-2] INFO  com.NewAutomationProject.testCases.TC_002_OrangeHrmDashboardTest - clicked on login button
+17:26:01.518 [TestNG-tests-2] INFO  com.NewAutomationProject.testCases.TC_002_OrangeHrmDashboardTest - clicked on leave button
+17:26:02.201 [TestNG-tests-2] INFO  com.NewAutomationProject.testCases.TC_002_OrangeHrmDashboardTest - clikced on datepicker calender
+17:26:02.283 [TestNG-tests-2] INFO  com.NewAutomationProject.testCases.TC_002_OrangeHrmDashboardTest - entered year date and month
+17:26:02.390 [TestNG-tests-2] INFO  com.NewAutomationProject.testCases.TC_002_OrangeHrmDashboardTest - entered year date and month for second datepicker
+12:52:17.442 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyHomeTest - captured the total radio button size 
+12:52:17.563 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyHomeTest - selected the dropDown
+12:52:17.720 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyHomeTest - selected the dropDown option from the dropDown
+12:52:17.983 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyHomeTest - selected the dropDown option
+12:52:18.042 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyHomeTest - clicked on the checkBoxes
+12:52:18.147 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyHomeTest - handled an alert successfully
+12:52:18.341 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyHomeTest - Handled and click on the window

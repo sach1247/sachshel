@@ -1,0 +1,35 @@
+10:28:40.870 [TestNG-tests-1] INFO  com.NewAutomationProject.testCases.TC_008_Guru99LoginLinkScreenshotTest - assertion condition is true
+10:28:40.938 [TestNG-tests-1] INFO  com.NewAutomationProject.testCases.TC_008_Guru99LoginLinkScreenshotTest - clicked on the selenium DropDown
+10:28:41.943 [TestNG-tests-1] INFO  com.NewAutomationProject.testCases.TC_008_Guru99LoginLinkScreenshotTest - successfully clicked on the Table Demo
+10:28:41.977 [TestNG-tests-1] INFO  com.NewAutomationProject.testCases.TC_008_Guru99LoginLinkScreenshotTest - table size got successfully
+10:28:42.092 [TestNG-tests-1] INFO  com.NewAutomationProject.testCases.TC_008_Guru99LoginLinkScreenshotTest - got the second row data successfully
+10:28:42.193 [TestNG-tests-1] INFO  com.NewAutomationProject.testCases.TC_008_Guru99LoginLinkScreenshotTest - got the sum,average successfully 
+10:28:42.255 [TestNG-tests-1] INFO  com.NewAutomationProject.testCases.TC_008_Guru99LoginLinkScreenshotTest - clicked on the selenium DropDown
+10:28:42.780 [TestNG-tests-1] INFO  com.NewAutomationProject.testCases.TC_008_Guru99LoginLinkScreenshotTest - clicked on the accessing the link
+10:28:42.820 [TestNG-tests-1] INFO  com.NewAutomationProject.testCases.TC_008_Guru99LoginLinkScreenshotTest - got all the links from the WebPage
+10:28:42.915 [TestNG-tests-1] INFO  com.NewAutomationProject.testCases.TC_008_Guru99LoginLinkScreenshotTest - clicked on the selenium DropDown
+10:28:44.382 [TestNG-tests-1] INFO  com.NewAutomationProject.testCases.TC_008_Guru99LoginLinkScreenshotTest - successfully clicked on the drag and drop link
+10:28:44.943 [TestNG-tests-1] INFO  com.NewAutomationProject.testCases.TC_008_Guru99LoginLinkScreenshotTest - successfully draged and drop on the box
+10:28:45.020 [TestNG-tests-1] INFO  com.NewAutomationProject.testCases.TC_008_Guru99LoginLinkScreenshotTest - clicked on the selenium DropDown
+10:28:45.066 [TestNG-tests-1] INFO  com.NewAutomationProject.testCases.TC_008_Guru99LoginLinkScreenshotTest - successfully scrolled the page for datepicker handling
+10:28:45.887 [TestNG-tests-1] INFO  com.NewAutomationProject.testCases.TC_008_Guru99LoginLinkScreenshotTest - successfully clicked on the Dateikcker Icon
+10:28:45.966 [TestNG-tests-1] INFO  com.NewAutomationProject.testCases.TC_008_Guru99LoginLinkScreenshotTest - successfully has entered the date of birth
+10:28:46.017 [TestNG-tests-1] INFO  com.NewAutomationProject.testCases.TC_008_Guru99LoginLinkScreenshotTest - clicked on the selenium DropDown
+10:28:48.633 [TestNG-tests-1] INFO  com.NewAutomationProject.testCases.TC_008_Guru99LoginLinkScreenshotTest - successfully clicked on the file upload links
+10:28:48.746 [TestNG-tests-1] INFO  com.NewAutomationProject.testCases.TC_008_Guru99LoginLinkScreenshotTest - successfully upload the file
+10:28:48.850 [TestNG-tests-1] INFO  com.NewAutomationProject.testCases.TC_008_Guru99LoginLinkScreenshotTest - clicked on the selenium DropDown
+10:28:48.891 [TestNG-tests-1] INFO  com.NewAutomationProject.testCases.TC_008_Guru99LoginLinkScreenshotTest - successfully scroll the page upto sumbmit button
+10:28:49.978 [TestNG-tests-1] INFO  com.NewAutomationProject.testCases.TC_008_Guru99LoginLinkScreenshotTest - successfully cliked on the cookies Demo link
+10:28:50.118 [TestNG-tests-1] INFO  com.NewAutomationProject.testCases.TC_008_Guru99LoginLinkScreenshotTest - got the cookies successfully
+10:28:50.125 [TestNG-tests-1] INFO  com.NewAutomationProject.testCases.TC_008_Guru99LoginLinkScreenshotTest - successfully handled all the cookies from the browser
+10:49:25.653 [main] INFO  com.NewAutomationProject.testCases.TC_001_Guru99LoginTest - successfully entered email address
+10:49:28.204 [main] INFO  com.NewAutomationProject.testCases.TC_001_Guru99LoginTest - clicked on submit button and navigate to the Dashboard page
+10:49:28.265 [main] INFO  com.NewAutomationProject.testCases.TC_001_Guru99LoginTest - assertion condition is true
+11:12:50.369 [main] INFO  com.NewAutomationProject.testCases.TC_008_Guru99LoginLinkScreenshotTest - successfully entered email address
+11:12:52.301 [main] INFO  com.NewAutomationProject.testCases.TC_008_Guru99LoginLinkScreenshotTest - clicked on submit button and navigate to the Dashboard page
+11:12:52.355 [main] INFO  com.NewAutomationProject.testCases.TC_008_Guru99LoginLinkScreenshotTest - assertion condition is true
+11:12:52.452 [main] INFO  com.NewAutomationProject.testCases.TC_008_Guru99LoginLinkScreenshotTest - clicked on the selenium DropDown
+11:12:54.355 [main] INFO  com.NewAutomationProject.testCases.TC_008_Guru99LoginLinkScreenshotTest - successfully clicked on the Table Demo
+11:12:54.429 [main] INFO  com.NewAutomationProject.testCases.TC_008_Guru99LoginLinkScreenshotTest - table size got successfully
+11:12:54.578 [main] INFO  com.NewAutomationProject.testCases.TC_008_Guru99LoginLinkScreenshotTest - got the second row data successfully
+11:12:54.723 [main] INFO  com.NewAutomationProject.testCases.TC_008_Guru99LoginLinkScreenshotTest - got the sum,average successfully 

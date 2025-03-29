@@ -1,0 +1,33 @@
+10:09:09.395 [main] INFO  com.NewAutomationProject.testCases.TC_003_OrangeHrmLeaveDash_Test - successfully entered the username in the Dashboard page
+10:09:09.477 [main] INFO  com.NewAutomationProject.testCases.TC_003_OrangeHrmLeaveDash_Test - successfully clicked on the user role field option
+10:09:09.547 [main] INFO  com.NewAutomationProject.testCases.TC_003_OrangeHrmLeaveDash_Test - successfully selected the ESS option from the user option of the Dashboard
+10:09:09.615 [main] INFO  com.NewAutomationProject.testCases.TC_003_OrangeHrmLeaveDash_Test - successfully clicked on the status option of the Dashboard page
+10:09:09.739 [main] INFO  com.NewAutomationProject.testCases.TC_003_OrangeHrmLeaveDash_Test - successfully selected the disabled option in the Dashboard page
+10:09:10.527 [main] INFO  com.NewAutomationProject.testCases.TC_003_OrangeHrmLeaveDash_Test - successfully clicked on the leave button which are in the dashboard page
+10:25:19.089 [main] INFO  com.NewAutomationProject.testCases.TC_003_OrangeHrmLeaveDash_Test - successfully Entered username in the login
+10:25:19.220 [main] INFO  com.NewAutomationProject.testCases.TC_003_OrangeHrmLeaveDash_Test - successfully Entered the password in the field
+10:25:20.853 [main] INFO  com.NewAutomationProject.testCases.TC_003_OrangeHrmLeaveDash_Test - successfully clicked on the login button
+10:25:22.460 [main] INFO  com.NewAutomationProject.testCases.TC_003_OrangeHrmLeaveDash_Test - successfully clicked on the admin button of the dashboard page
+10:25:23.033 [main] INFO  com.NewAutomationProject.testCases.TC_003_OrangeHrmLeaveDash_Test - successfully entered the username in the Dashboard page
+10:25:23.114 [main] INFO  com.NewAutomationProject.testCases.TC_003_OrangeHrmLeaveDash_Test - successfully clicked on the user role field option
+10:25:23.193 [main] INFO  com.NewAutomationProject.testCases.TC_003_OrangeHrmLeaveDash_Test - successfully selected the ESS option from the user option of the Dashboard
+10:25:23.266 [main] INFO  com.NewAutomationProject.testCases.TC_003_OrangeHrmLeaveDash_Test - successfully clicked on the status option of the Dashboard page
+10:28:14.658 [main] INFO  com.NewAutomationProject.testCases.TC_003_OrangeHrmLeaveDash_Test - successfully Entered username in the login
+10:28:14.772 [main] INFO  com.NewAutomationProject.testCases.TC_003_OrangeHrmLeaveDash_Test - successfully Entered the password in the field
+10:28:14.871 [main] INFO  com.NewAutomationProject.testCases.TC_003_OrangeHrmLeaveDash_Test - successfully clicked on the login button
+10:28:18.941 [main] INFO  com.NewAutomationProject.testCases.TC_003_OrangeHrmLeaveDash_Test - successfully clicked on the admin button of the dashboard page
+10:28:19.593 [main] INFO  com.NewAutomationProject.testCases.TC_003_OrangeHrmLeaveDash_Test - successfully entered the username in the Dashboard page
+10:28:19.673 [main] INFO  com.NewAutomationProject.testCases.TC_003_OrangeHrmLeaveDash_Test - successfully clicked on the user role field option
+10:28:19.758 [main] INFO  com.NewAutomationProject.testCases.TC_003_OrangeHrmLeaveDash_Test - successfully selected the ESS option from the user option of the Dashboard
+10:28:19.850 [main] INFO  com.NewAutomationProject.testCases.TC_003_OrangeHrmLeaveDash_Test - successfully clicked on the status option of the Dashboard page
+10:28:21.311 [main] INFO  com.NewAutomationProject.testCases.TC_003_OrangeHrmLeaveDash_Test - successfully selected the disabled option in the Dashboard page
+10:28:24.233 [main] INFO  com.NewAutomationProject.testCases.TC_003_OrangeHrmLeaveDash_Test - successfully clicked on the leave button which are in the dashboard page
+10:28:45.383 [main] INFO  com.NewAutomationProject.testCases.TC_003_OrangeHrmLeaveDash_Test - successfully clicked on the Datepicker option which are on the Dashboard page
+10:50:35.949 [main] INFO  com.NewAutomationProject.testCases.TC_003_OrangeHrmLeaveDash_Test - successfully Entered username in the login
+10:50:36.085 [main] INFO  com.NewAutomationProject.testCases.TC_003_OrangeHrmLeaveDash_Test - successfully Entered the password in the field
+10:50:40.558 [main] INFO  com.NewAutomationProject.testCases.TC_003_OrangeHrmLeaveDash_Test - successfully clicked on the login button
+10:50:44.279 [main] INFO  com.NewAutomationProject.testCases.TC_003_OrangeHrmLeaveDash_Test - successfully clicked on the admin button of the dashboard page
+10:50:45.039 [main] INFO  com.NewAutomationProject.testCases.TC_003_OrangeHrmLeaveDash_Test - successfully entered the username in the Dashboard page
+10:50:45.107 [main] INFO  com.NewAutomationProject.testCases.TC_003_OrangeHrmLeaveDash_Test - successfully clicked on the user role field option
+10:50:45.182 [main] INFO  com.NewAutomationProject.testCases.TC_003_OrangeHrmLeaveDash_Test - successfully selected the ESS option from the user option of the Dashboard
+10:50:45.261 [main] INFO  com.NewAutomationProject.testCases.TC_003_OrangeHrmLeaveDash_Test - successfully clicked on the status option of the Dashboard page

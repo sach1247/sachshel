@@ -1,0 +1,20 @@
+11:19:15.598 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully has selected the second radion button
+11:19:15.879 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully got the size of all the checkBoxes
+11:19:16.334 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully has selected the all the last two checkboxes
+11:19:16.465 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully clicked on the alert
+11:19:16.542 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully has scrolled upto the webtable text
+11:19:16.583 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully got the size of the WebTable
+11:19:17.633 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully got the size of the Webtable
+11:19:17.664 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully got the specific data from the webtable and printed it successfully
+11:19:48.454 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully got the values which is belongs to the specific column value
+11:19:48.482 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully has scrolled uptp the text of mouse Hover
+11:19:51.153 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully has performed the mouse hover action using the actions class on the webpage
+11:19:51.194 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully got the total numbers of the links on the webtable
+11:19:51.728 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully got the text of the links on the webpage
+11:19:51.756 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully got the cookies and its values which are on the webpage
+11:19:51.813 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully has switched into the frame
+11:19:52.128 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully clicked on the courses link on the webtable
+11:20:23.446 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully has checked the broken links on the webpage
+11:20:23.456 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully has verified the broken links on the webpage
+11:20:23.503 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully has scrolled the page till the bottom of it
+11:21:23.556 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully handled the last column and count the addition and the average of that

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Test Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Selective Group Test(failed)">
+    <groups>
+      <run>
+        <include name="sanity"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="com.NewAutomationProject.testCases.TC_004_Guru99DragAndDropTest">
+        <methods>
+          <include name="DrapAndDropPageValidation"/>
+        </methods>
+      </class> <!-- com.NewAutomationProject.testCases.TC_004_Guru99DragAndDropTest -->
+      <class name="com.NewAutomationProject.testCases.TC_006_Guru99FileUploadTest">
+        <methods>
+          <include name="fileUploadHandlingValidation"/>
+        </methods>
+      </class> <!-- com.NewAutomationProject.testCases.TC_006_Guru99FileUploadTest -->
+      <class name="com.NewAutomationProject.testCases.TC_008_Guru99LoginLinkScreenshotTest">
+        <methods>
+          <include name="LoginscreenshotCapture"/>
+        </methods>
+      </class> <!-- com.NewAutomationProject.testCases.TC_008_Guru99LoginLinkScreenshotTest -->
+      <class name="com.NewAutomationProject.testCases.TC_002_Guru99TableDemoTest">
+        <methods>
+          <include name="TableTestPageValidation"/>
+        </methods>
+      </class> <!-- com.NewAutomationProject.testCases.TC_002_Guru99TableDemoTest -->
+    </classes>
+  </test> <!-- Selective Group Test(failed) -->
+</suite> <!-- Failed suite [Test Suite] -->

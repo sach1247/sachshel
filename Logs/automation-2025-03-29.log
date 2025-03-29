@@ -1,0 +1,36 @@
+13:52:57.022 [main] INFO  com.NewAutomationProject.testCases.TC_002_DemoQA_CheckBox_Test1 - successfully has clicked on the textbox
+13:52:57.176 [main] INFO  com.NewAutomationProject.testCases.TC_002_DemoQA_CheckBox_Test1 - successfully has entered the name into the text field
+13:52:57.298 [main] INFO  com.NewAutomationProject.testCases.TC_002_DemoQA_CheckBox_Test1 - successfully entered the email on the field
+13:52:57.427 [main] INFO  com.NewAutomationProject.testCases.TC_002_DemoQA_CheckBox_Test1 - successfully has entered the address in the address field
+13:54:31.740 [main] INFO  com.NewAutomationProject.testCases.TC_002_DemoQA_CheckBox_Test1 - successfully has clicked on the textbox
+13:54:31.889 [main] INFO  com.NewAutomationProject.testCases.TC_002_DemoQA_CheckBox_Test1 - successfully has entered the name into the text field
+13:54:32.012 [main] INFO  com.NewAutomationProject.testCases.TC_002_DemoQA_CheckBox_Test1 - successfully entered the email on the field
+13:54:32.148 [main] INFO  com.NewAutomationProject.testCases.TC_002_DemoQA_CheckBox_Test1 - successfully has entered the address in the address field
+14:07:44.207 [main] INFO  com.NewAutomationProject.testCases.TC_002_DemoQA_CheckBox_Test1 - successfully has clicked on the textbox
+14:07:44.357 [main] INFO  com.NewAutomationProject.testCases.TC_002_DemoQA_CheckBox_Test1 - successfully has entered the name into the text field
+14:07:44.543 [main] INFO  com.NewAutomationProject.testCases.TC_002_DemoQA_CheckBox_Test1 - successfully entered the email on the field
+14:07:44.773 [main] INFO  com.NewAutomationProject.testCases.TC_002_DemoQA_CheckBox_Test1 - successfully has entered the address in the address field
+14:09:47.369 [main] INFO  com.NewAutomationProject.testCases.TC_002_DemoQA_CheckBox_Test1 - successfully has clicked on the textbox
+14:09:47.548 [main] INFO  com.NewAutomationProject.testCases.TC_002_DemoQA_CheckBox_Test1 - successfully has entered the name into the text field
+14:09:47.673 [main] INFO  com.NewAutomationProject.testCases.TC_002_DemoQA_CheckBox_Test1 - successfully entered the email on the field
+14:09:47.844 [main] INFO  com.NewAutomationProject.testCases.TC_002_DemoQA_CheckBox_Test1 - successfully has entered the address in the address field
+14:13:58.144 [main] INFO  com.NewAutomationProject.testCases.TC_002_DemoQA_CheckBox_Test1 - successfully has clicked on the textbox
+14:13:58.333 [main] INFO  com.NewAutomationProject.testCases.TC_002_DemoQA_CheckBox_Test1 - successfully has entered the name into the text field
+14:13:58.458 [main] INFO  com.NewAutomationProject.testCases.TC_002_DemoQA_CheckBox_Test1 - successfully entered the email on the field
+14:13:58.750 [main] INFO  com.NewAutomationProject.testCases.TC_002_DemoQA_CheckBox_Test1 - successfully has entered the address in the address field
+14:13:58.776 [main] INFO  com.NewAutomationProject.testCases.TC_002_DemoQA_CheckBox_Test1 - successfully has scrolled the page
+14:22:50.788 [main] INFO  com.NewAutomationProject.testCases.TC_002_DemoQA_CheckBox_Test1 - successfully has clicked on the textbox
+14:22:50.937 [main] INFO  com.NewAutomationProject.testCases.TC_002_DemoQA_CheckBox_Test1 - successfully has entered the name into the text field
+14:22:51.079 [main] INFO  com.NewAutomationProject.testCases.TC_002_DemoQA_CheckBox_Test1 - successfully entered the email on the field
+14:22:51.256 [main] INFO  com.NewAutomationProject.testCases.TC_002_DemoQA_CheckBox_Test1 - successfully has entered the address in the address field
+14:22:51.344 [main] INFO  com.NewAutomationProject.testCases.TC_002_DemoQA_CheckBox_Test1 - successfully has scrolled the page
+14:30:36.820 [main] INFO  com.NewAutomationProject.testCases.TC_002_DemoQA_CheckBox_Test1 - successfully has clicked on the textbox
+14:30:36.974 [main] INFO  com.NewAutomationProject.testCases.TC_002_DemoQA_CheckBox_Test1 - successfully has entered the name into the text field
+14:30:37.331 [main] INFO  com.NewAutomationProject.testCases.TC_002_DemoQA_CheckBox_Test1 - successfully entered the email on the field
+14:30:37.505 [main] INFO  com.NewAutomationProject.testCases.TC_002_DemoQA_CheckBox_Test1 - successfully has entered the address in the address field
+14:30:37.535 [main] INFO  com.NewAutomationProject.testCases.TC_002_DemoQA_CheckBox_Test1 - successfully has scrolled the page
+11:19:15.207 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully checked that radio button is selcted or not on the webpage
+11:19:15.229 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully got the title of the webpage
+11:19:15.297 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully handled the home button in order to is it enabled or disabled
+11:19:15.394 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully is handled that page is displaying or not
+11:19:15.417 [main] INFO  com.NewAutomationProject.testCases.TC_001_RahulShettyPage_Test - successfully has performed all the raddio button operations

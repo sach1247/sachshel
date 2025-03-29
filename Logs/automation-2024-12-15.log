@@ -1,0 +1,36 @@
+13:27:14.762 [main] INFO  com.NewAutomationProject.testCases.TC_002_SwagLabProductMainTest - successfully got the text of the price from the page
+13:36:01.179 [main] INFO  com.NewAutomationProject.testCases.TC_002_SwagLabProductMainTest - successfully entered the username in the filed
+13:36:01.287 [main] INFO  com.NewAutomationProject.testCases.TC_002_SwagLabProductMainTest - successfully entered the password
+13:36:01.437 [main] INFO  com.NewAutomationProject.testCases.TC_002_SwagLabProductMainTest - successfully clicked on the login button
+13:36:01.581 [main] INFO  com.NewAutomationProject.testCases.TC_002_SwagLabProductMainTest - successfully clicked on the image icon
+13:36:01.638 [main] INFO  com.NewAutomationProject.testCases.TC_002_SwagLabProductMainTest - successfully got the text of the price from the page
+13:38:53.454 [main] INFO  com.NewAutomationProject.testCases.TC_002_SwagLabProductMainTest - successfully entered the username in the filed
+13:38:53.581 [main] INFO  com.NewAutomationProject.testCases.TC_002_SwagLabProductMainTest - successfully entered the password
+13:38:53.725 [main] INFO  com.NewAutomationProject.testCases.TC_002_SwagLabProductMainTest - successfully clicked on the login button
+13:38:53.856 [main] INFO  com.NewAutomationProject.testCases.TC_002_SwagLabProductMainTest - successfully clicked on the image icon
+13:38:53.894 [main] INFO  com.NewAutomationProject.testCases.TC_002_SwagLabProductMainTest - successfully got the text of the price from the page
+13:42:36.044 [main] INFO  com.NewAutomationProject.testCases.TC_002_SwagLabProductMainTest - successfully entered the username in the filed
+13:42:36.165 [main] INFO  com.NewAutomationProject.testCases.TC_002_SwagLabProductMainTest - successfully entered the password
+13:42:36.299 [main] INFO  com.NewAutomationProject.testCases.TC_002_SwagLabProductMainTest - successfully clicked on the login button
+13:42:36.430 [main] INFO  com.NewAutomationProject.testCases.TC_002_SwagLabProductMainTest - successfully clicked on the image icon
+13:42:36.467 [main] INFO  com.NewAutomationProject.testCases.TC_002_SwagLabProductMainTest - successfully got the text of the price from the page
+13:16:55.348 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - successfully selected the dropdown option id Hyundaix
+13:16:55.956 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - successfully got the all links from the webpage
+13:51:18.348 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - successfully selected the dropdown option id Hyundaix
+13:51:19.048 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - successfully got the all links from the webpage 
+13:51:19.171 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - successfully cleared the text which are in text box
+13:58:39.070 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - successfully selected the dropdown option id Hyundaix
+13:58:39.500 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - successfully got the all links from the webpage 
+13:58:39.572 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - successfully cleared the text which are in text box
+13:58:39.608 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - successfully validated the disabled button
+14:01:30.008 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - successfully selected the dropdown option id Hyundaix
+14:01:30.437 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - successfully got the all links from the webpage 
+14:01:30.529 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - successfully cleared the text which are in text box
+14:01:30.571 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - successfully validated the disabled button
+14:10:17.395 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - successfully selected the dropdown option id Hyundaix
+14:10:17.866 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - successfully got the all links from the webpage 
+14:10:17.965 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - successfully cleared the text which are in text box
+14:10:18.019 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - successfully validated the disabled button
+14:10:18.092 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - successfully has scrolled upto the enabled button
+14:26:47.519 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - successfully selected the dropdown option id Hyundaix
+14:26:47.973 [main] INFO  com.NewAutomationProject.testCases.TC_001_OmayoSingleMain_Test - successfully got the all links from the webpage 

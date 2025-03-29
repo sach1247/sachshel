@@ -1,0 +1,37 @@
+11:37:53.252 [main] INFO  com.NewAutomationProject.testCases.TC_002_DemoQaMainPage_CheckBox_Test - clicked on drp checkbox 
+11:37:53.293 [main] INFO  com.NewAutomationProject.testCases.TC_002_DemoQaMainPage_CheckBox_Test - printed all the checkboxes over the webpage
+11:37:53.478 [main] INFO  com.NewAutomationProject.testCases.TC_002_DemoQaMainPage_CheckBox_Test - successfully selected the first two checkBoxes
+14:15:15.330 [main] INFO  com.NewAutomationProject.testCases.TC_004_DemoQaMainPage_WebTable_Test - clicked on the textbox btn successfully
+14:15:15.713 [main] INFO  com.NewAutomationProject.testCases.TC_004_DemoQaMainPage_WebTable_Test - entered the full name 
+14:15:15.839 [main] INFO  com.NewAutomationProject.testCases.TC_004_DemoQaMainPage_WebTable_Test - entered the email successfully
+14:15:15.967 [main] INFO  com.NewAutomationProject.testCases.TC_004_DemoQaMainPage_WebTable_Test - enterd the address successfully
+14:15:16.011 [main] INFO  com.NewAutomationProject.testCases.TC_004_DemoQaMainPage_WebTable_Test - scrolled the page successfully
+14:15:16.189 [main] INFO  com.NewAutomationProject.testCases.TC_004_DemoQaMainPage_WebTable_Test - entered a permanent address
+14:15:16.275 [main] INFO  com.NewAutomationProject.testCases.TC_004_DemoQaMainPage_WebTable_Test - clicked on the submit button successfully
+14:15:16.457 [main] INFO  com.NewAutomationProject.testCases.TC_004_DemoQaMainPage_WebTable_Test - clicked on checkbox successfully
+14:15:16.584 [main] INFO  com.NewAutomationProject.testCases.TC_004_DemoQaMainPage_WebTable_Test - clicked on drp checkbox 
+14:15:16.617 [main] INFO  com.NewAutomationProject.testCases.TC_004_DemoQaMainPage_WebTable_Test - printed all the checkboxes over the webpage
+14:15:16.800 [main] INFO  com.NewAutomationProject.testCases.TC_004_DemoQaMainPage_WebTable_Test - successfully selected the first two checkBoxes
+14:15:33.999 [main] INFO  com.NewAutomationProject.testCases.TC_004_DemoQaMainPage_WebTable_Test - successfully got the size of the radio button
+14:16:46.290 [main] INFO  com.NewAutomationProject.testCases.TC_004_DemoQaMainPage_WebTable_Test - clicked on the textbox btn successfully
+14:16:46.645 [main] INFO  com.NewAutomationProject.testCases.TC_004_DemoQaMainPage_WebTable_Test - entered the full name 
+14:16:46.766 [main] INFO  com.NewAutomationProject.testCases.TC_004_DemoQaMainPage_WebTable_Test - entered the email successfully
+14:16:46.861 [main] INFO  com.NewAutomationProject.testCases.TC_004_DemoQaMainPage_WebTable_Test - enterd the address successfully
+14:16:46.896 [main] INFO  com.NewAutomationProject.testCases.TC_004_DemoQaMainPage_WebTable_Test - scrolled the page successfully
+14:16:47.020 [main] INFO  com.NewAutomationProject.testCases.TC_004_DemoQaMainPage_WebTable_Test - entered a permanent address
+14:16:47.100 [main] INFO  com.NewAutomationProject.testCases.TC_004_DemoQaMainPage_WebTable_Test - clicked on the submit button successfully
+14:16:47.210 [main] INFO  com.NewAutomationProject.testCases.TC_004_DemoQaMainPage_WebTable_Test - clicked on checkbox successfully
+14:16:47.327 [main] INFO  com.NewAutomationProject.testCases.TC_004_DemoQaMainPage_WebTable_Test - clicked on drp checkbox 
+14:16:47.351 [main] INFO  com.NewAutomationProject.testCases.TC_004_DemoQaMainPage_WebTable_Test - printed all the checkboxes over the webpage
+14:16:47.540 [main] INFO  com.NewAutomationProject.testCases.TC_004_DemoQaMainPage_WebTable_Test - successfully selected the first two checkBoxes
+14:17:17.563 [main] INFO  com.NewAutomationProject.testCases.TC_004_DemoQaMainPage_WebTable_Test - successfully got the size of the radio button
+14:17:47.580 [main] INFO  com.NewAutomationProject.testCases.TC_004_DemoQaMainPage_WebTable_Test - successfully clicked on the radio button
+14:18:17.677 [main] INFO  com.NewAutomationProject.testCases.TC_004_DemoQaMainPage_WebTable_Test - successfully got the text from the webtables
+14:39:17.527 [main] INFO  com.NewAutomationProject.testCases.TC_004_DemoQaMainPage_WebTable_Test - clicked on the textbox btn successfully
+14:39:17.827 [main] INFO  com.NewAutomationProject.testCases.TC_004_DemoQaMainPage_WebTable_Test - entered the full name 
+14:39:17.975 [main] INFO  com.NewAutomationProject.testCases.TC_004_DemoQaMainPage_WebTable_Test - entered the email successfully
+14:39:18.075 [main] INFO  com.NewAutomationProject.testCases.TC_004_DemoQaMainPage_WebTable_Test - enterd the address successfully
+14:39:18.098 [main] INFO  com.NewAutomationProject.testCases.TC_004_DemoQaMainPage_WebTable_Test - scrolled the page successfully
+14:39:18.206 [main] INFO  com.NewAutomationProject.testCases.TC_004_DemoQaMainPage_WebTable_Test - entered a permanent address
+14:39:18.276 [main] INFO  com.NewAutomationProject.testCases.TC_004_DemoQaMainPage_WebTable_Test - clicked on the submit button successfully
+14:39:18.373 [main] INFO  com.NewAutomationProject.testCases.TC_004_DemoQaMainPage_WebTable_Test - clicked on checkbox successfully

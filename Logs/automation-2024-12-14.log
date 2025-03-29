@@ -1,0 +1,37 @@
+11:12:54.794 [main] INFO  com.NewAutomationProject.testCases.TC_008_Guru99LoginLinkScreenshotTest - clicked on the selenium DropDown
+11:12:55.356 [main] INFO  com.NewAutomationProject.testCases.TC_008_Guru99LoginLinkScreenshotTest - clicked on the accessing the link
+11:12:55.404 [main] INFO  com.NewAutomationProject.testCases.TC_008_Guru99LoginLinkScreenshotTest - got all the links from the WebPage
+11:12:55.501 [main] INFO  com.NewAutomationProject.testCases.TC_008_Guru99LoginLinkScreenshotTest - clicked on the selenium DropDown
+11:12:59.069 [main] INFO  com.NewAutomationProject.testCases.TC_008_Guru99LoginLinkScreenshotTest - successfully clicked on the drag and drop link
+11:12:59.641 [main] INFO  com.NewAutomationProject.testCases.TC_008_Guru99LoginLinkScreenshotTest - successfully draged and drop on the box
+11:12:59.773 [main] INFO  com.NewAutomationProject.testCases.TC_008_Guru99LoginLinkScreenshotTest - clicked on the selenium DropDown
+11:12:59.827 [main] INFO  com.NewAutomationProject.testCases.TC_008_Guru99LoginLinkScreenshotTest - successfully scrolled the page for datepicker handling
+11:13:00.443 [main] INFO  com.NewAutomationProject.testCases.TC_008_Guru99LoginLinkScreenshotTest - successfully clicked on the Dateikcker Icon
+11:13:00.540 [main] INFO  com.NewAutomationProject.testCases.TC_008_Guru99LoginLinkScreenshotTest - successfully has entered the date of birth
+11:13:00.625 [main] INFO  com.NewAutomationProject.testCases.TC_008_Guru99LoginLinkScreenshotTest - clicked on the selenium DropDown
+11:13:03.123 [main] INFO  com.NewAutomationProject.testCases.TC_008_Guru99LoginLinkScreenshotTest - successfully clicked on the file upload links
+11:13:03.231 [main] INFO  com.NewAutomationProject.testCases.TC_008_Guru99LoginLinkScreenshotTest - successfully upload the file
+11:13:03.367 [main] INFO  com.NewAutomationProject.testCases.TC_008_Guru99LoginLinkScreenshotTest - clicked on the selenium DropDown
+11:13:03.436 [main] INFO  com.NewAutomationProject.testCases.TC_008_Guru99LoginLinkScreenshotTest - successfully scroll the page upto sumbmit button
+11:13:04.397 [main] INFO  com.NewAutomationProject.testCases.TC_008_Guru99LoginLinkScreenshotTest - successfully cliked on the cookies Demo link
+11:13:04.552 [main] INFO  com.NewAutomationProject.testCases.TC_008_Guru99LoginLinkScreenshotTest - got the cookies successfully
+11:13:04.563 [main] INFO  com.NewAutomationProject.testCases.TC_008_Guru99LoginLinkScreenshotTest - successfully handled all the cookies from the browser
+12:28:33.876 [main] INFO  com.NewAutomationProject.testCases.TC_001_SwagLabLogin_Test - successfully enter the username in the field
+12:28:33.982 [main] INFO  com.NewAutomationProject.testCases.TC_001_SwagLabLogin_Test - successfully enter the password in the field
+12:28:34.135 [main] INFO  com.NewAutomationProject.testCases.TC_001_SwagLabLogin_Test - successfully clicked on the login button
+13:07:10.183 [main] INFO  com.NewAutomationProject.testCases.TC_002_SwagLabProductMainTest - successfully entered the username in the filed
+13:07:10.276 [main] INFO  com.NewAutomationProject.testCases.TC_002_SwagLabProductMainTest - successfully entered the password
+13:07:10.411 [main] INFO  com.NewAutomationProject.testCases.TC_002_SwagLabProductMainTest - successfully clicked on the login button
+13:09:22.064 [main] INFO  com.NewAutomationProject.testCases.TC_002_SwagLabProductMainTest - successfully entered the username in the filed
+13:09:22.180 [main] INFO  com.NewAutomationProject.testCases.TC_002_SwagLabProductMainTest - successfully entered the password
+13:09:22.330 [main] INFO  com.NewAutomationProject.testCases.TC_002_SwagLabProductMainTest - successfully clicked on the login button
+13:09:22.467 [main] INFO  com.NewAutomationProject.testCases.TC_002_SwagLabProductMainTest - successfully clicked on the image icon
+13:20:04.036 [main] INFO  com.NewAutomationProject.testCases.TC_002_SwagLabProductMainTest - successfully entered the username in the filed
+13:20:04.150 [main] INFO  com.NewAutomationProject.testCases.TC_002_SwagLabProductMainTest - successfully entered the password
+13:20:04.293 [main] INFO  com.NewAutomationProject.testCases.TC_002_SwagLabProductMainTest - successfully clicked on the login button
+13:20:04.434 [main] INFO  com.NewAutomationProject.testCases.TC_002_SwagLabProductMainTest - successfully clicked on the image icon
+13:20:04.472 [main] INFO  com.NewAutomationProject.testCases.TC_002_SwagLabProductMainTest - successfully got the text of the price from the page
+13:27:13.943 [main] INFO  com.NewAutomationProject.testCases.TC_002_SwagLabProductMainTest - successfully entered the username in the filed
+13:27:14.055 [main] INFO  com.NewAutomationProject.testCases.TC_002_SwagLabProductMainTest - successfully entered the password
+13:27:14.193 [main] INFO  com.NewAutomationProject.testCases.TC_002_SwagLabProductMainTest - successfully clicked on the login button
+13:27:14.686 [main] INFO  com.NewAutomationProject.testCases.TC_002_SwagLabProductMainTest - successfully clicked on the image icon
